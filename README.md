@@ -63,6 +63,10 @@ This file is a bonus feature that generates a perfect maze and then adds cycles 
 - Start is top-left (green), end is bottom-right (red).</content>
 <parameter name="filePath">c:\Users\Ezbeal\Desktop\maze_project\README.md
 
+## Loom Recording
+- There is one minute loom recoreded video link below
+  https://www.loom.com/share/f4be6f488cd545869fcb2ed4ce1bb9bb
+
 Name - Ezbel Tsegezeab
 ID - UGR/9827/16
 Section - 1
